@@ -1,12 +1,16 @@
 WeWantYou
 =========
 
+Who we want today: A King of Product. Someone who can take care of something that does not physically exist.
+
 **About Us**
+
 We help customers navigate the e-commerce landscape through understanding their preferred brands and buying patterns. The platform that you own will enable customers to fully leverage the on the personalised recommendations we provide.
 
-We pay peanuts and a hell lot of snacks in a never-ending snack bar. Our team members are fun-loving and spend half their time juggling oranges and work while building a product that both customers and team members will love.
+We want you and in return we will pay peanuts and also a hell lot of snacks in a never-ending snack bar. Our team members are fun-loving and spend half their time juggling oranges at work while building a product that both customers and team members will love.
 
 **Responsibilities**
+
 The product manager will oversee and manage the product life cycle of the company - a web-based platform, and handle interests from business partners by communicating them with key stakeholders. He/she knows both the product inside-out and the business requirements of it.
 
 **Requirements**
