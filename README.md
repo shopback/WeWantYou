@@ -9,7 +9,7 @@ A King of Product. Someone who can take care of something that does not physical
 
 We help customers navigate the e-commerce landscape through understanding their preferred brands and buying patterns. The platform that you own will enable customers to fully leverage the on the personalised recommendations we provide.
 
-We want you and in return we will pay peanuts and also a hell lot of snacks in a never-ending snack bar. Our team members are fun-loving and spend half their time juggling oranges at work while building a product that both customers and team members will love.
+We want you and in return we will pay peanuts and also a hell lot of snacks in a never-ending snack bar. Our team members are fun-loving and spend half their time juggling oranges at work while building a product that both our customers and team will love.
 
 **Responsibilities**
 
