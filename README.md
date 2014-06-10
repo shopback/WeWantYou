@@ -1,7 +1,9 @@
 WeWantYou
 =========
 
-Who we want today: A King of Product. Someone who can take care of something that does not physically exist.
+**Who we want today**
+
+A King of Product. Someone who can take care of something that does not physically exist.
 
 **About Us**
 
