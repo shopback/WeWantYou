@@ -1,4 +1,4 @@
-King of Product
+Product Manager
 =========
 
 **Responsibilities**
