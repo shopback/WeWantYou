@@ -3,8 +3,8 @@ WeWantYou
 
 **Who we want today**
 
-* A [King of Product](https://github.com/shopback/WeWantYou/blob/master/KingofProduct.md "We are hiring a Product Manager!"). Someone who can take care of something that does not physically exist.
-* A [Front-end Developer](https://github.com/shopback/WeWantYou/blob/master/FrontendDev.md "We are hiring a Front-end Developer!"). Someone who combines beauty with code.
+* A [Product Manager](https://github.com/shopback/WeWantYou/blob/master/KingofProduct.md "We are hiring a Product Manager!"). Someone who can take care of all things virtual.
+* A [Front-end Developer](https://github.com/shopback/WeWantYou/blob/master/FrontendDev.md "We are hiring a Front-end Developer!"). A true PHP expert who is able of combining beauty with code.
 
 **About Us**
 
