@@ -1,4 +1,4 @@
-Front-end Developer
+Back-end Intern
 =========
 
 **Note: Period of Internship is about August to December 2014. Students looking for exposure in the Internet industry are welcome to apply!**
