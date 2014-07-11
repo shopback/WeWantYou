@@ -2,7 +2,7 @@ WeWantYou
 =========
 
 **Who we want today**
-* [Product Manager (full-time)](https://github.com/shopback/WeWantYou/blob/master/KingofProduct.md "We are hiring a Product Manager!") - Someone who takes care of something that does not physically exist.
+* [Product Manager (full-time)](https://github.com/shopback/WeWantYou/blob/master/ProductManager.md "We are hiring a Product Manager!") - Someone who takes care of something that does not physically exist.
 * [Back-end PHP Developer (full-time)](https://github.com/shopback/WeWantYou/blob/master/BackendPHPDeveloper.md "We are hiring a Back-end Developer!") - The ultimate code ninja that lives in databases.
 * [Front-end Intern](https://github.com/shopback/WeWantYou/blob/master/FrontendIntern.md "We are hiring a Front-end Intern!") - Half designer, half coder - someone who combines beauty with code.
 * [Back-end Intern](https://github.com/shopback/WeWantYou/blob/master/BackendIntern.md "We are hiring a Back-end Intern!") - Very, very logical digital lego builder.
