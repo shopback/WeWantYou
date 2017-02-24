@@ -29,19 +29,19 @@ Hear from our team about what we hold important & how we get things done.
 
 Read more at our [Careers Portal](http://careers.shopback.com).
 
-## Do the most meaningful work of your career
-We are more than just a cashback service. We are a lifestyle app ([iOS](https://itunes.apple.com/us/app/shopback-cashback-deals-for-online-shopping/id1086505626?mt=8), [Android](https://play.google.com/store/apps/details?id=com.shopback.app&hl=en)) - touching every aspect of the customer’s daily life. You will have the opportunity to drive innovation and lead your team in coming up with an amazing mobile application you will be proud of using!
-
-[![ShopBack Cashback](https://github.com/shopback/WeWantYou/raw/master/src/images/shopback-website-2016.png)](https://www.shopback.com)
-
-[![Download ShopBack iOS App](https://github.com/shopback/WeWantYou/raw/master/src/images/shopback-ios-download.png)](https://itunes.apple.com/us/app/shopback-cashback-deals-for-online-shopping/id1086505626?mt=8) [![ShopBack Cashback](https://github.com/shopback/WeWantYou/raw/master/src/images/shopback-android.download.png)](https://play.google.com/store/apps/details?id=com.shopback.app&hl=en)
-
 ## How ShopBackers are making ShopBack better for users 
 * [Crawling and tracking millions of ecommerce products at scale](https://conferences.oreilly.com/strata/hadoop-big-data-sg/public/schedule/detail/54420)
 * [ShopBack offers smarter shopping with the Elastic Stack](https://www.elastic.co/videos/elasticon-seminar-singapore-2016-shopback)
 * [Lessons in redux : Dispatching object](https://medium.com/@sebastianlzy/lessons-in-redux-dispatching-object-111fac0fa9e1#.v2axf4wlj)
 * [Building Data-driven Products Part III: Extracting insights from metrics](https://medium.com/@jacobeyo/building-data-driven-products-part-iii-extracting-insights-from-metrics-545823968ce#.1k2wp1nof)
 * [Web Deployment in ShopBack — Serving faster](https://medium.com/shopback-engineering/web-deployment-in-shopback-95c39f7af1a5#.usjjt44ft)
+
+## Do the most meaningful work of your career
+We are more than just a cashback service. We are a lifestyle app ([iOS](https://itunes.apple.com/us/app/shopback-cashback-deals-for-online-shopping/id1086505626?mt=8), [Android](https://play.google.com/store/apps/details?id=com.shopback.app&hl=en)) - touching every aspect of the customer’s daily life. You will have the opportunity to drive innovation and lead your team in coming up with an amazing mobile application you will be proud of using!
+
+[![ShopBack Cashback](https://github.com/shopback/WeWantYou/raw/master/src/images/shopback-website-2016.png)](https://www.shopback.com)
+
+[![Download ShopBack iOS App](https://github.com/shopback/WeWantYou/raw/master/src/images/shopback-ios-download.png)](https://itunes.apple.com/us/app/shopback-cashback-deals-for-online-shopping/id1086505626?mt=8) [![ShopBack Cashback](https://github.com/shopback/WeWantYou/raw/master/src/images/shopback-android.download.png)](https://play.google.com/store/apps/details?id=com.shopback.app&hl=en)
 
 ## More about ShopBack
 * [Today Online - http://www.todayonline.com/lifestyle/cashing-cashback-site](http://www.todayonline.com/lifestyle/cashing-cashback-site)
