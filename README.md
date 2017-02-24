@@ -19,7 +19,7 @@ At ShopBack, you will join a talented and diverse engineering team. We are a foc
 ## What’s it like to work at ShopBack? 
 Hear from our team about what we hold important & how we get things done.
 
-[![ShopBack 2015-2016](https://github.com/shopback/WeWantYou/raw/master/src/images/shopback-crews.jpg)](http://careers.shopback.com)
+[![ShopBack 2015-2016](https://github.com/shopback/WeWantYou/raw/master/src/images/shopback-crews.png)](http://careers.shopback.com)
 
 * [ShopBack Office Tour](https://www.youtube.com/watch?v=wuGIiidpfb0) - *Camille and Tom from the ShopBack Singapore office show you what a day in the life of a ShopBacker is really like!*
 * [Bryan, Co-founder & CTO](http://careers.shopback.com/blog/bryan) - "*We constantly have to adapt to the new flow and work with new ideas. All of these processes require people to constantly change, adapt & improve. Focus and dedication are the key to winning.*"
